@@ -1,0 +1,8 @@
+The task is to desgin and implement text classifier. Aim for higher performance.
+All data is contained in "data.tsv". Each line of this file contains a pieace of text and a label in tabular separated form.
+
+
+What to submit:
+ - python script that will run inference on the "test.tsv" file (not provided) and output the performance of your best model. You can assume "test.tsv" is in the same folder.
+ - requirements.txt needed to run python script
+ - short description of what you have done to achieve high performance
